@@ -1,0 +1,100 @@
+#EXTM3U
+
+
+
+
+#EXTINF:-1,sodas
+rtsp://192.168.1.70:7754/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
+#EXTINF:-1, balkon
+rtsp://admin:petras54A@192.168.1.72:554/Streaming/Channels/1
+#EXTINF:-1,pieva
+rtsp://admin:12345@192.168.1.80:554/Streaming/Channels/1
+#EXTINF:-1,pavesine
+rtsp://admin:PETRAS54c@192.168.1.84:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1
+#EXTINF:-1,prudas
+rtsp://192.168.1.71:8854/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
+#EXTINF:-1,ukinis
+rtsp://admin:petras54@192.168.1.147:10554/tcp/av1_0
+#EXTINF:-1,Kl uosto
+https://s1.dcdn.lt/livecam/kl011.stream/playlist.m3u8
+#EXTINF:-1,Katedros a Vilniuje
+http://s1.dcdn.lt/livecam/vl147.stream/chunklist_w775934770.m3u8
+#EXTINF:-1,Kauno uostas
+https://video.kaunouostas.lt/memfs/533e59a4-8512-44dd-833e-74b142359a9d_output_0.m3u8?session=nHZwcupW7dHCuEKSRJRFSG
+#EXTINF:-1,Šilalė vėjo jėg
+http://s1.dcdn.lt/livecam/sll50.stream/chunklist_w1711375660.m3u8
+#EXTINF:-1,Liepkalnis2
+https://s1.dcdn.lt/live/liepkalnis2.stream/playlist.m3u8
+#EXTINF:-1,Liepkalnis3
+https://s1.dcdn.lt/live/liepkalnis3.stream/playlist.m3u8
+
+#EXTINF:0,Ignalina Centras
+#EXTVLCOPT:network-caching=1000
+http://ignet.lt:8888/live/test/index.m3u8
+#EXTINF:-1,KlŽvejų g
+https://s1.dcdn.lt/livecam/kl016.stream/playlist.m3u8
+#EXTINF:-1,Klaipeda ville
+http://207.244.234.65/hls/mystream.m3u8
+
+#EXTINF:-1,G vilko g. Vilniuje
+http://s1.dcdn.lt/live/smil:vilnius.smil/playlist.m3u8
+#EXTINF:-1,Verslo trik
+https://s1.dcdn.lt/livecam/vl108.stream/playlist.m3u8
+#EXTINF:-1,KMindaugo pr.Kaune
+https://s1.dcdn.lt/livecam/kn085.stream/playlist.m3u8
+#EXTINF:-1,Kaunas-stadionas
+https://s1.worldcam.live:8082/kaunas/index.m3u8
+
+#EXTINF:0,Kauno klinikos
+https://s1.worldcam.live:8082/kauno-klinikos/tracks-v1a1/mono.m3u8
+#EXTINF:-1,elnyno (Milvydų kaimas)
+http://s1.dcdn.lt/livecam/si508.stream/chunklist_w24835152.m3u8
+#EXTINF:-1,Socis
+https://fl.tvintel.info:8443/mix-cum/index.m3u8
+#EXTINF:-1,Lipowa pl
+http://91.224.104.112:8181/lipowa/index.m3u8
+#EXTINF:-1,Poland - Karpacz
+http://hoktastream2.webcamera.pl/karpacz_cam_ab594f/karpacz_cam_ab594f.stream/playlist.m3u8
+#EXTINF:-1,Poland - Cracow 1
+http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
+#EXTINF:-1,Poland - Myslenice
+http://hoktastream1.webcamera.pl/myslenice_cam_27ccab/myslenice_cam_27ccab.stream/playlist.m3u8
+#EXTINF:-1,Poland - Ujsoly
+http://91.224.104.112:80/ujsoly/index.m3u8
+#EXTINF:-1, Slovakija 12
+http://parksnow.zivekamery.sk:1935/donovaly/DONOVALY.stream/playlist.m3u8
+#EXTINF:-1,UK - Salcombe
+https://camsecure.co/HLS/salcombeyc.m3u8
+#EXTINF:-1,Stikl.pereja
+https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8?contentid=2820180516001
+#EXTINF:0,NTV Newfoundland  wcam
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
+#EXTINF:0,Blokzijl
+https://584b389d712f9.streamlock.net/live2/blokzijl1.stream/playlist.m3u8
+#EXTINF:0,SVR-Kidderminster
+http://89.16.164.68:80/SVR-Kidderminster-C2_094871/index.m3u8
+#EXTINF:0,NVR-Wansford
+http://paxman.railcam.co.uk/NVR-Wansford_83969/tracks-v1a1/mono.m3u8
+#EXTINF:0,Brazil 1
+https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2005.stream/chunklist.m3u8
+#EXTINF:0,Brazil 2
+https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20009.stream/chunklist.m3u8
+#EXTINF:-1,pavesine is
+rtsp://admin:petras54@78.61.67.88:14780/tcp/av1_0
+#EXTINF:-1,4k is
+rtsp://admin:petras54A@78.61.67.88:9854/Streaming/Channels/1
+#EXTINF:-1,sodas is
+rtsp://78.61.67.88:7754/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
+#EXTINF:-1,kamera is balkono is
+rtsp://admin:PETRAS54c@78.61.67.88:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1
+#EXTINF:-1,prudas is
+rtsp://78.61.67.88:8854/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif1
+#EXTINF:-1,pieva is
+rtsp://admin:12345@78.61.67.88:9954/Streaming/Channels/1
+#EXTINF:-1,netcam
+rtsp://admin:petras54A@192.168.1.171:10554/tcp/av0_0
+
+
+
+
+
